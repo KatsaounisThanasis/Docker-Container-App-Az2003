@@ -1,0 +1,6 @@
+@Az2003_HostAddress = http://localhost:5003
+
+GET {{Az2003_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
