@@ -1,1 +1,11 @@
-
+trigger:
+  - main
+pool:
+  name: default
+steps:
+  - task: AzureContainerApps@1
+    inputs:
+      azureSubscription: '<Subscription>(<Subscription ID>)'
+      imageToDeploy: '<Registry>/<Image>:<Image tag>' from Container App resource
+      containerAppName: '<Name>' from Container App resource 
+      resourceGroup: '<resource group name>'
