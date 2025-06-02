@@ -23,6 +23,7 @@ This project is based on a Microsoft Learn guided module where I deployed and ma
 - Azure CLI
 
 📁 Project Structure
+
 ├── .github/workflows/ # CI/CD pipeline (Azure DevOps or GitHub Actions)
 
 ├── Properties/ # .NET project properties
