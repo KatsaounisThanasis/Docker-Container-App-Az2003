@@ -1,13 +1,8 @@
-# 🚀 Deploy and Manage a C# Web App with Azure Container Apps
+ 🚀 Deploy and Manage a C# Web App with Azure Container Apps
 
-This project is based on a **Microsoft Learn guided module** where I deployed and managed a containerized .NET application using **Azure Container Apps** and **Azure DevOps Pipelines**.
+This project is based on a Microsoft Learn guided module where I deployed and managed a containerized .NET application using Azure Container Apps and Azure DevOps Pipelines.
 
-> 📚 Original module:  
-> [Deploy and manage a containerized application using Azure Container Apps](https://learn.microsoft.com/en-us/training/modules/deploy-manage-container-app-using-azure-container-apps/)
-
----
-
-## 🧠 What I Learned
+🧠 What I Learned
 
 ✅ How to containerize a .NET web API using Docker  
 ✅ Push and store container images in Azure Container Registry  
@@ -16,9 +11,7 @@ This project is based on a **Microsoft Learn guided module** where I deployed an
 ✅ Manage revisions and traffic splitting  
 ✅ Use managed identities to secure access to other Azure resources  
 
----
-
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - C# (.NET)
 - Docker
@@ -29,9 +22,7 @@ This project is based on a **Microsoft Learn guided module** where I deployed an
 - Managed Identity
 - Azure CLI
 
----
-
-## 📁 Project Structure
+📁 Project Structure
 ├── .github/workflows/ # CI/CD pipeline (Azure DevOps or GitHub Actions)
 
 ├── Properties/ # .NET project properties
