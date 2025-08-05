@@ -1,6 +1,6 @@
  🚀 Deploy and Manage a C# Web App with Azure Container Apps
 
-This project is based on a Microsoft Learn guided module where I deployed and managed a containerized .NET application using Azure Container Apps and Azure DevOps Pipelines.
+I deployed and managed a containerized .NET application using Azure Container Apps and Azure DevOps Pipelines.
 
 🧠 What I Learned
 
